@@ -1,0 +1,145 @@
+.External {
+    background-color: green;
+    outline-color: beige;
+}
+.External img {
+            width: 15%;
+             height:"20%";
+             margin: 10px;
+             border:2px dashed;
+
+}
+.External p{
+    color: white;
+            border:2px dashed;
+            width:70%;
+}
+.Scrollhorizontal {
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    border:solid;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.Scrollvertically {
+    margin-left: 5vw;
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    border:solid;
+    overflow-y: scroll;
+    
+
+}
+.fitcontent {
+    margin-left: 5vw;
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    border:solid;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   
+   
+
+}
+.image-bullet {
+    list-style-image: url(internet\ \(1\).webp);
+    margin-left:15vw;
+}
+.background-image{
+    background-image: url(internet.webp);
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+    
+}
+.Web-page {
+    background-image: url(internet.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+   overflow-y: scroll;
+   border: solid;
+   margin-top: 20px;
+   height: 70vh;
+   
+   color: white;
+}
+.background-color{
+    background-color: blueviolet;
+    height: 50vh;
+    text-align: center;
+}
+.container-main {
+    display: flex;
+    padding: 1%;
+    width: 50%;
+    color: gray;
+    border-radius: 2px;
+    border: solid;
+    background-color: silver;
+    margin-left: 20%;
+}
+.containerA{
+    height: 40vh;
+    background-color: brown;
+    border: solid;
+    width: 40%;
+
+}
+.containerB{
+    margin-left: 3%;
+    height:40vh;
+    background-color:silver;
+    width:70%;
+    border: solid;
+}
+.container1{
+    
+    height:15vh;
+    background-color: palegreen;
+    width:100%;
+    border: solid;
+}
+.container2{
+    display: flex;
+    margin-top: 3%;
+    height:21vh;
+    background-color:silver;
+  
+    border:solid;
+}
+.container3 {
+    
+    margin-right: 10%;
+    height:20vh;
+    background-color: palevioletred;
+    width: 40%;
+    border:solid;
+}
+.container4{
+    margin-left:2% ;
+    background-color: silver;
+   
+    height: 20vh;
+    width: 80%;
+   
+}
+.container5 {
+    background-color: blue;
+    border:solid;
+    height:10vh;
+    
+    
+}
+.container6 {
+    background-color: blue;
+    border:solid;
+    height:10vh;
+
+}
+
+
